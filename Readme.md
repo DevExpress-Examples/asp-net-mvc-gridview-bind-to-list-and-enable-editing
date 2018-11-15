@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/Sample/Controllers/HomeController.cs)
+* [Person.cs](./CS/Sample/Models/Person.cs)
+* [PersonsList.cs](./CS/Sample/Models/PersonsList.cs)
+* **[GridViewEditingPartial.cshtml](./CS/Sample/Views/Home/GridViewEditingPartial.cshtml)**
+* [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # GridView - How to edit in memory data source
 
 
