@@ -5,7 +5,7 @@
 <!-- default badges end -->
 # GridView for ASP.NET MVC - How to bind the extension to a list and allow edit operations
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3983/)**
+**[[Run Online]](https://codecentral.devexpress.com/128550026/)**
 <!-- run online end -->
 
 This example demonstrates how to bind the [GridView extension](https://docs.devexpress.com/AspNetMvc/8966/components/grid-view) to a list and allow users to edit extension data.
