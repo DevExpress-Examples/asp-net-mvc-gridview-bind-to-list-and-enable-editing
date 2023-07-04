@@ -3,29 +3,29 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3983)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [HomeController.cs](./CS/Sample/Controllers/HomeController.cs)
-* [Person.cs](./CS/Sample/Models/Person.cs)
-* [PersonsList.cs](./CS/Sample/Models/PersonsList.cs)
-* **[GridViewEditingPartial.cshtml](./CS/Sample/Views/Home/GridViewEditingPartial.cshtml)**
-* [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
-<!-- default file list end -->
-# GridView - How to edit in memory data source
+# GridView for ASP.NET MVC - How to bind the extension to a list and allow edit operations
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e3983/)**
 <!-- run online end -->
 
+This example demonstrates how to bind the [GridView extension](https://docs.devexpress.com/AspNetMvc/8966/components/grid-view) to a list and allow users to edit extension data.
 
-<p>This example illustrates how to bind the MVC GridView Extension with an in memory datasource (List<T>) with enabled editing capabilities.<br><br><strong>For Validation:</strong><br>Make sure that you have met the following requirements
+![Bind GridView to a List](image.png)
 
-* The Model's Properties have related Data Annotations attributes.
-* The GridView's PartialView is wrapped with a form tag/container.
-* The client-side/unobtrusive validation is enabled (for example, at the Web.config level).
-* The related scripts are linked manually or loaded automatically by setting the embedRequiredClientLibraries configuration option to true.<br><br></p>
-<p><strong>See Also:</strong><br> <a href="https://www.devexpress.com/Support/Center/p/E3530">E3530: How to bind GridView with standard in-memory data sources (DataTable, List<T>)</a><br> <a href="https://www.devexpress.com/Support/Center/p/E3998">E3998: GridView - How to specify a custom EditForm Template</a><br><br><strong>Online Demo:</strong><br><a href="http://demos.devexpress.com/MVCxGridViewDemos/Editing/EditModes">Edit Modes</a></p>
+## Files to Review
 
-<br/>
+* [GridViewEditingPartial.cshtml](./CS/Sample/Views/Home/GridViewEditingPartial.cshtml)
+* [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
+* [HomeController.cs](./CS/Sample/Controllers/HomeController.cs)
+* [Person.cs](./CS/Sample/Models/Person.cs)
+* [PersonsList.cs](./CS/Sample/Models/PersonsList.cs)
 
+## Documentation
 
+* [Edit Data](https://docs.devexpress.com/AspNetMvc/16140/components/grid-view/data-editing-and-validation/data-editing)
+* [Validate Data](https://docs.devexpress.com/AspNetMvc/16141/components/grid-view/data-editing-and-validation/validate-data)
+
+## More Examples
+
+* [Grid View for ASP.NET MVC - How to Bind a Grid to Standard In-Memory Data Sources (DataTable, List)](https://github.com/DevExpress-Examples/mvc-gridview-bind-to-in-memory-data-sources)
+* [Grid View for ASP.NET MVC - How to Specify a Custom Edit Form Template](https://github.com/DevExpress-Examples/asp-net-mvc-grid-specify-custom-editform-template)
