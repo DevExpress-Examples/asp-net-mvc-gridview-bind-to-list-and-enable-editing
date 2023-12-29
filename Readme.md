@@ -13,9 +13,6 @@
 * [Index.cshtml](./CS/Sample/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # GridView - How to edit in memory data source
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128550026/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to bind the MVC GridView Extension with an in memory datasource (List<T>) with enabled editing capabilities.<br><br><strong>For Validation:</strong><br>Make sure that you have met the following requirements
