@@ -28,7 +28,7 @@ This example demonstrates how to bind the [GridView extension](https://docs.deve
 * [Grid View for ASP.NET MVC - How to Bind a Grid to Standard In-Memory Data Sources (DataTable, List)](https://github.com/DevExpress-Examples/mvc-gridview-bind-to-in-memory-data-sources)
 * [Grid View for ASP.NET MVC - How to Specify a Custom Edit Form Template](https://github.com/DevExpress-Examples/asp-net-mvc-grid-specify-custom-editform-template)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-gridview-bind-to-list-and-enable-editing&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-gridview-bind-to-list-and-enable-editing&~~~was_helpful=no)
 
